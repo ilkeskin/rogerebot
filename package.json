@@ -1,0 +1,30 @@
+{
+	"name": "rogerebot",
+	"version": "1.0.0",
+	"description": "A discord bot that lets you search for movies, actors or directors and shows their online ratings and cast",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon"
+	},
+	"keywords": [
+		"discord",
+		"bot",
+		"movies",
+		"imdb",
+		"rotten",
+		"tomatoes",
+		"critics",
+		"cast",
+		"rating",
+		"actors",
+		"directors"
+	],
+	"author": "Ilyas Keskin",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^12.3.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	}
+}
